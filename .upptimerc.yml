@@ -31,7 +31,7 @@ status-website:
   cname: status.ku.ni
   # baseUrl: /your-repo-name
   logoUrl: https://logos.ku.ni/3_0.svg
-  baseUrl: /
+
   name: KUNI Status
   favicon: https://ku.ni/favicon.png
   faviconSvg: https://logos.ku.ni/logo_3.svg
