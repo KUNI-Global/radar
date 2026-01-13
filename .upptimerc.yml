@@ -33,11 +33,14 @@ status-website:
   logoUrl: https://logos.ku.ni/3_0.svg
   baseUrl: /
   name: KUNI Status
+  favicon: https://ku.ni/favicon.png
+  faviconSvg: https://logos.ku.ni/logo_3.svg
   introTitle: KUNI Status
   introMessage: Powered by [upptime](https://github.com/upptime/upptime). 
   navbar:
     - title: Status
       href: /
+ 
 
 commitMessages:
   commitAuthorName: "kuninyao"
