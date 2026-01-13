@@ -14,12 +14,12 @@ sites:
     url: https://fastdl.ku.ni
   - name: KUNI — FastDL HTTP
     url: http://fastdl.ku.ni
-  - name: ku.ni — Cloudflare Check IPv4
+  - name: KUNI — Cloudflare Check IPv4
     url: ku.ni
     port: 443
     check: "tcp-ping"
     ipv6: true
-  - name: ku.ni — Cloudflare Check IPv4
+  - name: KUNI — Cloudflare Check IPv4
     url: ku.ni
     port: 443
     check: "tcp-ping"
