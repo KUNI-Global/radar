@@ -31,7 +31,8 @@ status-website:
   cname: status.ku.ni
   # baseUrl: /your-repo-name
   logoUrl: https://logos.ku.ni/3_0.svg
-  name: Upptime
+  baseUrl: /
+  name: KUNI Status
   introTitle: KUNI Status
   introMessage: Powered by [upptime](https://github.com/upptime/upptime). 
   navbar:
