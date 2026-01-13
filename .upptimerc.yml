@@ -38,6 +38,9 @@ status-website:
     - title: Status
       href: /
 
+commitMessages:
+  commitAuthorName: "KUNI-Global"
+  commitAuthorEmail: "i@ku.ni"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
