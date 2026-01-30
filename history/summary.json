@@ -40,10 +40,10 @@
     "url": "https://fastdl.ku.ni",
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-https",
-    "status": "up",
+    "status": "down",
     "uptime": "86.99%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "93.96%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "93.95%",
     "uptimeMonth": "86.99%",
     "uptimeYear": "86.99%",
     "time": 627,
@@ -52,7 +52,7 @@
     "timeMonth": 627,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2026-01-30": 68,
+      "2026-01-30": 69,
       "2026-01-29": 222,
       "2026-01-28": 95,
       "2026-01-27": 41,
@@ -74,9 +74,9 @@
     "url": "http://fastdl.ku.ni",
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-http",
-    "status": "up",
+    "status": "down",
     "uptime": "87.39%",
-    "uptimeDay": "95.28%",
+    "uptimeDay": "95.27%",
     "uptimeWeek": "94.44%",
     "uptimeMonth": "87.39%",
     "uptimeYear": "87.39%",
@@ -108,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "81.04%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "53.37%",
-    "uptimeMonth": "81.04%",
-    "uptimeYear": "81.04%",
+    "uptime": "81.23%",
+    "uptimeDay": "51.37%",
+    "uptimeWeek": "53.40%",
+    "uptimeMonth": "81.23%",
+    "uptimeYear": "81.23%",
     "time": 6,
     "timeDay": 7,
     "timeWeek": 8,
@@ -126,7 +126,7 @@
       "2026-01-26": 632,
       "2026-01-25": 691,
       "2026-01-24": 795,
-      "2026-01-23": 84
+      "2026-01-23": 36
     }
   },
   {
@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "81.04%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "53.37%",
-    "uptimeMonth": "81.04%",
-    "uptimeYear": "81.04%",
+    "uptime": "81.23%",
+    "uptimeDay": "51.37%",
+    "uptimeWeek": "53.40%",
+    "uptimeMonth": "81.23%",
+    "uptimeYear": "81.23%",
     "time": 6,
     "timeDay": 7,
     "timeWeek": 8,
@@ -153,7 +153,7 @@
       "2026-01-26": 632,
       "2026-01-25": 691,
       "2026-01-24": 795,
-      "2026-01-23": 84
+      "2026-01-23": 36
     }
   }
 ]
