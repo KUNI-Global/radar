@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-https",
     "status": "up",
-    "uptime": "89.58%",
+    "uptime": "89.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.84%",
-    "uptimeYear": "89.58%",
+    "uptimeYear": "89.59%",
     "time": 710,
     "timeDay": 514,
     "timeWeek": 633,
@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-http",
     "status": "up",
-    "uptime": "89.77%",
+    "uptime": "89.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.97%",
-    "uptimeYear": "89.77%",
+    "uptimeYear": "89.78%",
     "time": 466,
     "timeDay": 403,
     "timeWeek": 455,
@@ -152,14 +152,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "49.86%",
-    "uptimeWeek": "58.42%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "95.22%",
+    "uptime": "95.30%",
+    "uptimeDay": "50.03%",
+    "uptimeWeek": "59.03%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "95.30%",
     "time": 8,
     "timeDay": 8,
-    "timeWeek": 16,
+    "timeWeek": 15,
     "timeMonth": 9,
     "timeYear": 8,
     "dailyMinutesDown": {
@@ -169,7 +169,7 @@
       "2026-03-12": 810,
       "2026-03-11": 640,
       "2026-03-10": 699,
-      "2026-03-09": 264
+      "2026-03-09": 202
     }
   },
   {
@@ -178,14 +178,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "49.86%",
-    "uptimeWeek": "58.42%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "95.22%",
+    "uptime": "95.30%",
+    "uptimeDay": "50.03%",
+    "uptimeWeek": "59.03%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "95.30%",
     "time": 8,
     "timeDay": 8,
-    "timeWeek": 16,
+    "timeWeek": 15,
     "timeMonth": 9,
     "timeYear": 8,
     "dailyMinutesDown": {
@@ -195,7 +195,7 @@
       "2026-03-12": 810,
       "2026-03-11": 640,
       "2026-03-10": 699,
-      "2026-03-09": 264
+      "2026-03-09": 202
     }
   }
 ]
