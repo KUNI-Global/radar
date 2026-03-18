@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-http",
     "status": "up",
-    "uptime": "90.23%",
+    "uptime": "90.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.18%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.24%",
     "time": 464,
     "timeDay": 452,
     "timeWeek": 441,
@@ -152,13 +152,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "52.19%",
-    "uptimeWeek": "55.20%",
-    "uptimeMonth": "89.69%",
-    "uptimeYear": "95.08%",
+    "uptime": "95.16%",
+    "uptimeDay": "53.83%",
+    "uptimeWeek": "55.87%",
+    "uptimeMonth": "89.85%",
+    "uptimeYear": "95.16%",
     "time": 8,
-    "timeDay": 6,
+    "timeDay": 5,
     "timeWeek": 16,
     "timeMonth": 9,
     "timeYear": 8,
@@ -169,7 +169,7 @@
       "2026-03-15": 805,
       "2026-03-14": 630,
       "2026-03-13": 787,
-      "2026-03-12": 641
+      "2026-03-12": 574
     }
   },
   {
@@ -178,13 +178,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.08%",
-    "uptimeDay": "52.19%",
-    "uptimeWeek": "55.20%",
-    "uptimeMonth": "89.69%",
-    "uptimeYear": "95.08%",
+    "uptime": "95.16%",
+    "uptimeDay": "53.83%",
+    "uptimeWeek": "55.87%",
+    "uptimeMonth": "89.84%",
+    "uptimeYear": "95.16%",
     "time": 8,
-    "timeDay": 6,
+    "timeDay": 5,
     "timeWeek": 16,
     "timeMonth": 9,
     "timeYear": 8,
@@ -195,7 +195,7 @@
       "2026-03-15": 805,
       "2026-03-14": 630,
       "2026-03-13": 787,
-      "2026-03-12": 641
+      "2026-03-12": 574
     }
   }
 ]
