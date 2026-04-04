@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 2684,
+    "timeDay": 5201,
     "timeWeek": 933,
     "timeMonth": 367,
     "timeYear": 298,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 39,
+    "timeDay": 54,
     "timeWeek": 36,
     "timeMonth": 56,
     "timeYear": 79,
@@ -47,7 +47,7 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "92.04%",
     "time": 702,
-    "timeDay": 1068,
+    "timeDay": 1014,
     "timeWeek": 743,
     "timeMonth": 643,
     "timeYear": 702,
@@ -104,7 +104,7 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "92.19%",
     "time": 486,
-    "timeDay": 2676,
+    "timeDay": 4769,
     "timeWeek": 1052,
     "timeMonth": 554,
     "timeYear": 486,
@@ -154,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.51%",
-    "uptimeDay": "54.62%",
-    "uptimeWeek": "48.93%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "95.51%",
+    "uptime": "95.54%",
+    "uptimeDay": "54.74%",
+    "uptimeWeek": "49.06%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "95.54%",
     "time": 8,
     "timeDay": 6,
     "timeWeek": 6,
@@ -172,7 +172,7 @@
       "2026-03-31": 683,
       "2026-03-30": 696,
       "2026-03-29": 782,
-      "2026-03-28": 141
+      "2026-03-28": 109
     }
   },
   {
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.51%",
-    "uptimeDay": "54.64%",
-    "uptimeWeek": "48.93%",
-    "uptimeMonth": "87.98%",
-    "uptimeYear": "95.51%",
+    "uptime": "95.54%",
+    "uptimeDay": "54.72%",
+    "uptimeWeek": "49.06%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "95.54%",
     "time": 8,
     "timeDay": 6,
     "timeWeek": 6,
@@ -199,7 +199,7 @@
       "2026-03-31": 683,
       "2026-03-30": 696,
       "2026-03-29": 782,
-      "2026-03-28": 141
+      "2026-03-28": 109
     }
   }
 ]
