@@ -154,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "52.04%",
-    "uptimeWeek": "50.38%",
-    "uptimeMonth": "87.78%",
-    "uptimeYear": "95.60%",
+    "uptime": "95.69%",
+    "uptimeDay": "52.28%",
+    "uptimeWeek": "50.47%",
+    "uptimeMonth": "88.03%",
+    "uptimeYear": "95.69%",
     "time": 8,
     "timeDay": 23,
     "timeWeek": 8,
@@ -172,7 +172,7 @@
       "2026-04-03": 780,
       "2026-04-02": 739,
       "2026-04-01": 800,
-      "2026-03-31": 383
+      "2026-03-31": 271
     }
   },
   {
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "52.04%",
-    "uptimeWeek": "50.38%",
-    "uptimeMonth": "87.78%",
-    "uptimeYear": "95.60%",
+    "uptime": "95.69%",
+    "uptimeDay": "52.28%",
+    "uptimeWeek": "50.47%",
+    "uptimeMonth": "88.03%",
+    "uptimeYear": "95.69%",
     "time": 8,
     "timeDay": 23,
     "timeWeek": 8,
@@ -199,7 +199,7 @@
       "2026-04-03": 780,
       "2026-04-02": 739,
       "2026-04-01": 800,
-      "2026-03-31": 383
+      "2026-03-31": 271
     }
   }
 ]
