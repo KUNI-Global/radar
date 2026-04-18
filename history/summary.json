@@ -155,9 +155,9 @@
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
     "uptime": "95.44%",
-    "uptimeDay": "53.32%",
-    "uptimeWeek": "50.87%",
-    "uptimeMonth": "85.72%",
+    "uptimeDay": "53.69%",
+    "uptimeWeek": "51.18%",
+    "uptimeMonth": "85.74%",
     "uptimeYear": "95.44%",
     "time": 8,
     "timeDay": 7,
@@ -174,7 +174,7 @@
       "2026-04-12": 815,
       "2026-04-11": 655,
       "2026-04-10": 827,
-      "2026-04-09": 9
+      "2026-04-09": 1
     }
   },
   {
@@ -184,9 +184,9 @@
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
     "uptime": "95.44%",
-    "uptimeDay": "53.32%",
-    "uptimeWeek": "50.87%",
-    "uptimeMonth": "85.72%",
+    "uptimeDay": "53.69%",
+    "uptimeWeek": "51.18%",
+    "uptimeMonth": "85.74%",
     "uptimeYear": "95.44%",
     "time": 8,
     "timeDay": 7,
@@ -203,7 +203,7 @@
       "2026-04-12": 815,
       "2026-04-11": 655,
       "2026-04-10": 827,
-      "2026-04-09": 9
+      "2026-04-09": 1
     }
   }
 ]
