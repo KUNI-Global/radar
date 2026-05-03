@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-http",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.23%",
+    "uptimeYear": "94.24%",
     "time": 477,
     "timeDay": 564,
     "timeWeek": 435,
@@ -156,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "62.46%",
-    "uptimeWeek": "56.88%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "96.02%",
+    "uptime": "96.07%",
+    "uptimeDay": "62.54%",
+    "uptimeWeek": "57.06%",
+    "uptimeMonth": "85.75%",
+    "uptimeYear": "96.07%",
     "time": 8,
-    "timeDay": 5,
+    "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2026-05-03": 452,
+      "2026-05-03": 491,
       "2026-05-02": 591,
       "2026-05-01": 557,
       "2026-04-30": 696,
@@ -176,7 +176,7 @@
       "2026-04-27": 944,
       "2026-04-26": 747,
       "2026-04-25": 748,
-      "2026-04-24": 560
+      "2026-04-24": 442
     }
   },
   {
@@ -185,18 +185,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "62.46%",
-    "uptimeWeek": "56.88%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "96.02%",
+    "uptime": "96.07%",
+    "uptimeDay": "62.54%",
+    "uptimeWeek": "57.06%",
+    "uptimeMonth": "85.75%",
+    "uptimeYear": "96.07%",
     "time": 8,
-    "timeDay": 5,
+    "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2026-05-03": 452,
+      "2026-05-03": 491,
       "2026-05-02": 591,
       "2026-05-01": 557,
       "2026-04-30": 696,
@@ -205,7 +205,7 @@
       "2026-04-27": 944,
       "2026-04-26": 747,
       "2026-04-25": 748,
-      "2026-04-24": 560
+      "2026-04-24": 442
     }
   }
 ]
