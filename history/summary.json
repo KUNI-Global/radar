@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastdl.ku.ni.ico",
     "slug": "kuni-fast-dl-https",
     "status": "up",
-    "uptime": "94.71%",
-    "uptimeDay": "81.28%",
+    "uptime": "94.72%",
+    "uptimeDay": "86.31%",
     "uptimeWeek": "88.95%",
     "uptimeMonth": "97.46%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.72%",
     "time": 705,
     "timeDay": 1991,
     "timeWeek": 953,
@@ -102,7 +102,7 @@
     "slug": "kuni-fast-dl-http",
     "status": "up",
     "uptime": "94.80%",
-    "uptimeDay": "81.28%",
+    "uptimeDay": "86.31%",
     "uptimeWeek": "88.95%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "94.80%",
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "52.94%",
-    "uptimeWeek": "55.97%",
-    "uptimeMonth": "76.66%",
-    "uptimeYear": "94.83%",
+    "uptime": "94.86%",
+    "uptimeDay": "57.95%",
+    "uptimeWeek": "56.51%",
+    "uptimeMonth": "76.79%",
+    "uptimeYear": "94.86%",
     "time": 8,
     "timeDay": 6,
     "timeWeek": 6,
@@ -184,7 +184,7 @@
       "2026-05-18": 754,
       "2026-05-17": 730,
       "2026-05-16": 745,
-      "2026-05-15": 114
+      "2026-05-15": 57
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "52.96%",
-    "uptimeWeek": "55.98%",
-    "uptimeMonth": "76.66%",
-    "uptimeYear": "94.83%",
+    "uptime": "94.86%",
+    "uptimeDay": "57.95%",
+    "uptimeWeek": "56.51%",
+    "uptimeMonth": "76.79%",
+    "uptimeYear": "94.86%",
     "time": 8,
     "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 7,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2026-05-30": 526,
+      "2026-05-30": 527,
       "2026-05-29": 597,
       "2026-05-28": 701,
       "2026-05-27": 646,
@@ -219,7 +219,7 @@
       "2026-05-18": 754,
       "2026-05-17": 730,
       "2026-05-16": 745,
-      "2026-05-15": 114
+      "2026-05-15": 57
     }
   }
 ]
