@@ -13,7 +13,7 @@
     "time": 332,
     "timeDay": 158,
     "timeWeek": 690,
-    "timeMonth": 408,
+    "timeMonth": 413,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2026-04-30": 96
@@ -33,7 +33,7 @@
     "time": 91,
     "timeDay": 40,
     "timeWeek": 85,
-    "timeMonth": 123,
+    "timeMonth": 126,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 703,
     "timeDay": 444,
     "timeWeek": 660,
-    "timeMonth": 728,
+    "timeMonth": 734,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2026-05-29": 1114,
@@ -109,7 +109,7 @@
     "time": 469,
     "timeDay": 275,
     "timeWeek": 385,
-    "timeMonth": 440,
+    "timeMonth": 443,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2026-05-29": 1114,
@@ -158,13 +158,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "94.70%",
-    "uptimeDay": "51.32%",
+    "uptime": "94.75%",
+    "uptimeDay": "54.90%",
     "uptimeWeek": "52.20%",
-    "uptimeMonth": "74.31%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "74.53%",
+    "uptimeYear": "94.75%",
     "time": 8,
-    "timeDay": 11,
+    "timeDay": 10,
     "timeWeek": 8,
     "timeMonth": 6,
     "timeYear": 8,
@@ -185,8 +185,7 @@
       "2026-05-27": 646,
       "2026-05-26": 449,
       "2026-05-25": 669,
-      "2026-05-24": 667,
-      "2026-05-23": 8
+      "2026-05-24": 577
     }
   },
   {
@@ -195,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuni-cloudflare-check-i-pv4",
     "status": "up",
-    "uptime": "94.70%",
-    "uptimeDay": "51.34%",
+    "uptime": "94.75%",
+    "uptimeDay": "54.87%",
     "uptimeWeek": "52.20%",
-    "uptimeMonth": "74.31%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "74.53%",
+    "uptimeYear": "94.75%",
     "time": 8,
     "timeDay": 11,
     "timeWeek": 8,
     "timeMonth": 6,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2026-06-09": 650,
+      "2026-06-09": 651,
       "2026-06-08": 670,
       "2026-06-07": 732,
       "2026-06-06": 714,
@@ -222,8 +221,7 @@
       "2026-05-27": 646,
       "2026-05-26": 449,
       "2026-05-25": 669,
-      "2026-05-24": 667,
-      "2026-05-23": 8
+      "2026-05-24": 577
     }
   }
 ]
